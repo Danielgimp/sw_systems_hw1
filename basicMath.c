@@ -13,9 +13,9 @@ float add(float x , float y)
 	return ans;
 }
 
-double mul(double x , int y)
+double mul(double x , double y)
 {
-	float ans = x*y;
+	double ans = x*y;
 	return ans;
 }
 
